@@ -1,5 +1,4 @@
-on alfred_script(q)
-  --  Shh! by Colin Devroe | http://cdevroe.com/
+--  Shh! by Colin Devroe | http://cdevroe.com/
 --  http://github.com/cdevroe/shh
 
 tell application "Twitter"
@@ -17,4 +16,3 @@ end tell
 tell application "iChat"
 	quit
 end tell
-end alfred_script

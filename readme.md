@@ -20,6 +20,12 @@ Doubtless there are many noisy applications that we all should close from time-t
 ***
 
 ## Version History ##
+### 0.1.1 - August 9, 2011###
+ 
+- Update/Fix: Updated Alfred Extension to no longer require a parameter.
+- Fix: Source of Alfred Extension updated.
+
+
 ### 0.1 - Initial commit. - August 9, 2011###
  
 - Support for Twitter, Skype, iChat and Mail.
