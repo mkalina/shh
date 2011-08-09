@@ -23,7 +23,7 @@ Doubtless there are many noisy applications that we all should close from time-t
 ### 0.1 - Initial commit. - August 9, 2011###
  
 - Support for Twitter, Skype, iChat and Mail.
-- Alred Extension file.
+- Alfred Extension file.
 - Alfred Extension source.
 
 ## Contributors ##
